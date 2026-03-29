@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Eshan Dev Giri<br><br>🚀 Full Stack Developer | GenAI Enthusiast | MCA Student<br><br>💫 About Me<br><br>🔭 Building Full Stack & AI-powered applications<br>🤖 Exploring Generative AI, LLMs & RAG systems<br>🌱 Currently learning Advanced React, Node.js & AI tools<br>👯 Open to collaborate on Web Dev & AI Projects<br>💬 Ask me about Python, JavaScript, AI & Full Stack Development<br>⚡ I love turning ideas into real-world applications
+👋 Hi, I'm Eshan Dev Giri Goswami<br><br>🚀 Full Stack Developer | GenAI Enthusiast | MCA Student<br><br>💫 About Me<br><br>🔭 Building Full Stack & AI-powered applications<br>🤖 Exploring Generative AI, LLMs & RAG systems<br>🌱 Currently learning Advanced React, Node.js & AI tools<br>👯 Open to collaborate on Web Dev & AI Projects<br>💬 Ask me about Python, JavaScript, AI & Full Stack Development<br>⚡ I love turning ideas into real-world applications
 
 
 ## 🌐 Socials:
